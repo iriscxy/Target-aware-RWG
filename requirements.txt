@@ -1,0 +1,12 @@
+ConfigParser==5.2.0
+keybert==0.5.1
+matplotlib==3.3.4
+nltk==3.6.5
+numpy==1.19.2
+pytorch_transformers==1.2.0
+scikit_learn==1.0.2
+seaborn==0.11.2
+tensorboardX==2.5
+torch==1.7.0
+tqdm==4.62.3
+transformers==4.12.3
