@@ -1,5 +1,5 @@
 # Target-aware-RWG
-Official code and dataset for SIGIR 2022 paper 'Target-aware Abstractive Related Work Generation with Contrastive Learning'.
+Official code and dataset for SIGIR 2022 paper [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf).
 
 
 # About the corpus
